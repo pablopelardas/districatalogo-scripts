@@ -7,11 +7,11 @@ echo ""
 chmod +x deploy-api.sh deploy-backoffice.sh deploy-catalogo.sh
 
 # Ejecutar cada script
-./deploy-api.sh
+/home/pablo/working/distri/scripts/deploy-api.sh
 echo ""
-./deploy-backoffice.sh
+/home/pablo/working/distri/scripts/deploy-backoffice.sh
 echo ""
-./deploy-catalogo.sh
+/home/pablo/working/distri/scripts/deploy-catalogo.sh
 
 echo ""
 echo "✅ Todas las aplicaciones subidas!"
